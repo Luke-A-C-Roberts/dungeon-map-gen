@@ -1,0 +1,13 @@
+Wave Function Colapse
+    determine possible neighbours of a tile upon instantiation
+    create tile generation algorithm in generator class
+
+Block types (materials)
+
+Background + Foreground
+
+subset neighbours must only include other subset members
+
+Errors
+
+Comments
